@@ -1,16 +1,8 @@
-# currency_converter
+Currency Converter - Dollar to Indian Rupees (Flutter)
+Overview
+This Flutter project is a simple currency converter that allows users to convert dollar amounts to Indian Rupees. The application provides a user-friendly interface for entering the amount in dollars and instantly seeing the equivalent value in Indian Rupees based on the latest exchange rates.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Real-time Exchange Rates: Utilizes live exchange rates to provide accurate and up-to-date currency conversions.
+User-friendly Interface: A clean and intuitive interface for effortless navigation and input of currency values.
+Offline Mode: Ability to use the app even without an internet connection, with the last known exchange rates.
